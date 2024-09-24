@@ -1,3 +1,5 @@
-# tests
+## `maicChecks`
 
-"\# clyau.github.io"
+package description goes here.
+
+## `smproc`
